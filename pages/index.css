@@ -1,6 +1,7 @@
 @import url(/vendor/normalize.css);
 @import url(/vendor/fonts.css);
 @import url(/blocks/root/root.css);
+@import url(/blocks/rotation/rotation.css);
 
 @import url(/blocks/header/header.css);
 @import url(/blocks/header/logo/logo.css);
@@ -68,7 +69,6 @@
 
 @import url(/blocks/video/__iframe/video__iframe.css);
 @import url(/blocks/video/__iframes/vido__iframes.css);
-@import url(/blocks/rotation/rotation.css);
 
 @import url(/blocks/kaufman/__triangle/kaufman__triangle.css);
 
