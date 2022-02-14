@@ -8,9 +8,6 @@
 }
 
 .rotation{
-  animation: rotation 20s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite;
-  animation-duration: normal;
+  animation: rotation 20s  linear infinite normal;
 }
 

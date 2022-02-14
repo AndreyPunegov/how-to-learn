@@ -1,8 +1,11 @@
 .logo_place_header {
-  width: 183px;
   height: 32px;
   position: absolute;
   top: 30px;
   left: 64px;
   background-image: url(../../../images/logo.svg);
+}
+
+.logo_place_header:hover {
+  border: 3px solid #413f3f;
 }

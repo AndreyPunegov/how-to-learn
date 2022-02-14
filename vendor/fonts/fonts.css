@@ -11,9 +11,4 @@
   font-family: 'Inter';
   font-weight: normal;
 }
-@font-face {
-  src: url(./Inter-SemiBold.woff) format('woff');
-  src: url(./Inter-SemiBold.woff2) format('woff2');
-  font-family: 'Inter';
-  font-weight: bolder;
-}
+
